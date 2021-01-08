@@ -1,0 +1,18 @@
+package _2021_01_04.com.oop.student.run;
+
+import _2021_01_04.com.oop.student.controller.StudentManager;
+
+public class Run {
+	public static void main(String[] args) {
+		StudentManager manager = new StudentManager();
+		
+		public void insertStudentData() {
+			
+		}
+		
+		public void printStudentData() {
+			
+		}
+	}
+
+}

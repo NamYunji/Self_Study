@@ -1,0 +1,56 @@
+package _2021_01_02;
+
+/**
+ * 
+ * - Pizza 클래스: 다음 세 개의 필드를 지님
+  브랜드(문자열)
+  지름(실수형)
+  가격(정수형)
+ *
+ */
+public class Object_Pizza {
+	
+	private String brand;
+	private double diameter;
+	private int price;
+	
+	public Object_Pizza() {
+		super();
+	}
+	
+	public Object_Pizza(String brand, double diameter, int price) {
+		super();
+		this.brand = brand;
+		this.diameter = diameter;
+		this.price = price;
+	}
+	
+	public String getBrand() {
+		return brand;
+	}
+	public void setBrand(String brand) {
+		this.brand = brand;
+	}
+	public double getDiameter() {
+		return diameter;
+	}
+	public void setDiameter(double diameter) {
+		this.diameter = diameter;
+	}
+	public int getPrice() {
+		return price;
+	}
+	public void setPrice(int price) {
+		this.price = price;
+	}
+
+	@Override
+	public String toString() {
+		return "Object_Pizza [brand=" + brand + ", diameter=" + diameter + ", price=" + price + "]";
+	}
+	
+	
+	
+	
+
+}
