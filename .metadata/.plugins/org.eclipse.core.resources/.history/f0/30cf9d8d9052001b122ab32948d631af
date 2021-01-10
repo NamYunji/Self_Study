@@ -1,0 +1,32 @@
+package _0110;
+
+public class MinusAccount extends BankAccount{
+
+	private int limit;
+
+	public MinusAccount(int id, int balance, int limit) {
+		super(id, balance);
+		this.limit = limit;
+	}
+
+	public MinusAccount(int id, int limit) {
+		super(id);
+		this.limit = limit;
+	}
+	
+	@Override
+	public void withdraw(int amount) {
+		super.withdraw(amount);
+		if (limit < amount) {
+			System.out.println("대출한도가 초과되었습니다");
+		}
+	}
+
+
+	
+	
+	
+	
+	
+	
+}

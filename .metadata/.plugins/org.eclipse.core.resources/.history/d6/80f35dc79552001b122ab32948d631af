@@ -1,0 +1,28 @@
+package _0110;
+
+public class NormalAccount extends BankAccount{
+
+	public NormalAccount(int id, int balance) {
+		super(id, balance);
+		// TODO Auto-generated constructor stub
+	}
+
+	public NormalAccount(int id) {
+		super(id, 0);
+		// TODO Auto-generated constructor stub
+	}
+	
+	@Override
+	public void withdraw(int amount) {
+		super.withdraw(amount);
+		if(getBalance() <= amount)
+			System.out.println("잔액부족");
+	}
+
+
+	
+	
+	
+	
+
+}

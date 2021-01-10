@@ -1,0 +1,10 @@
+package _0110.member.model.vo;
+
+public class Silver extends Member{
+	
+	public void bonusPoint() {
+		double bonuspoint = super.getPoint()*0.02; 
+	}
+	
+
+}

@@ -1,0 +1,17 @@
+package _0110.say;
+
+import _0110.Mic;
+
+public class Run {
+	public static void main(String[] args) {
+		
+		Mic m1 = new Person();
+		Mic m2 = new Dog();
+		Mic m3 = new Cat();
+		
+		m1.say();
+		m2.say();
+		m3.say();
+	}
+
+}

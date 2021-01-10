@@ -1,0 +1,19 @@
+package _0111.member.controller;
+
+import _0111.member.vo.Member;
+
+public class MemberManager {
+	
+	Member[] m = new Member[40];
+	
+	public void insertMember(Member m) {
+		m[i] = new Member();
+		i++;
+	}
+	
+	public void printData() {
+		System.out.println("이름 : " + m[i].getName() + "등급 : " + m[i].getGrade() + 
+				"포인트 : " + m[i].getPoint() + "이자 포인트 : " + m[i].get);
+	}
+
+}

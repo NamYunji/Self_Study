@@ -1,0 +1,13 @@
+package _0111.member.vo;
+
+import _0111.member.BonusPoint;
+
+public class Vvip extends Member implements BonusPoint{
+	@Override
+	public double getBonus() {
+		return this.getBonus()*0.15;
+	}
+	
+	
+
+}

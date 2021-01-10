@@ -1,0 +1,10 @@
+package _0110.member.model.vo;
+
+public class Vvip extends Member{
+	
+	public double bonusPoint() {
+		double bonuspoint = super.getPoint()*0.15; 
+		return bonuspoint;
+	}
+
+}

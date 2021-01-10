@@ -1,0 +1,8 @@
+package _0110.member.model.vo;
+
+public class Silver extends Member{
+	
+
+	
+
+}

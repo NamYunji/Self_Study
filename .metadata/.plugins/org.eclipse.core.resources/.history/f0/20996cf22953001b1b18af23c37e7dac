@@ -1,0 +1,11 @@
+package _0110;
+
+import _0110.Mic;
+
+public class Person implements Mic{
+	@Override
+	public void say() {
+		System.out.println("가나다라마사아아아아");
+	}
+
+}

@@ -1,0 +1,6 @@
+package _0111.member;
+
+public interface BonusPoint {
+	
+	public double getBonus(int point);
+}

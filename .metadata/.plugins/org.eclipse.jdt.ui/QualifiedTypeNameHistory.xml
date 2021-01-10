@@ -16,7 +16,6 @@
 <fullyQualifiedTypeName name="_2021_01_05.array.DimentionalArray"/>
 <fullyQualifiedTypeName name="_2021_01_06.object.Student"/>
 <fullyQualifiedTypeName name="_2021_01_06.object.BankAccount"/>
-<fullyQualifiedTypeName name="java.util.Scanner"/>
 <fullyQualifiedTypeName name="java.lang.System"/>
 <fullyQualifiedTypeName name="_2021_01_06.object.Employee"/>
 <fullyQualifiedTypeName name="_2021_01_07_inherit.ManagerTest"/>
@@ -30,11 +29,25 @@
 <fullyQualifiedTypeName name="_2021_01_07_polymorphism.GraduateStduent_"/>
 <fullyQualifiedTypeName name="_0107_polymorphism.HourlyMember"/>
 <fullyQualifiedTypeName name="_0107_polymorphism.RegularMember"/>
-<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
 <fullyQualifiedTypeName name="_0108.object.Circle"/>
 <fullyQualifiedTypeName name="_0108.object.MemberTest"/>
 <fullyQualifiedTypeName name="_0108.object.HourlyMember"/>
 <fullyQualifiedTypeName name="_0108.object.RegularMember"/>
 <fullyQualifiedTypeName name="_0108.object.Person"/>
 <fullyQualifiedTypeName name="java.util.InputMismatchException"/>
+<fullyQualifiedTypeName name="_0110.NormalAccount"/>
+<fullyQualifiedTypeName name="_0110.MinusAccount"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="_0110.HourlyMember"/>
+<fullyQualifiedTypeName name="_0110.RegularMember"/>
+<fullyQualifiedTypeName name="_0110.member.model.vo.Member"/>
+<fullyQualifiedTypeName name="java.io.ObjectInputStream.GetField"/>
+<fullyQualifiedTypeName name="_0111.member.BonusPoint"/>
+<fullyQualifiedTypeName name="_0111.member.vo.Member"/>
+<fullyQualifiedTypeName name="_0111.member.vo.Silver"/>
+<fullyQualifiedTypeName name="_0111.member.vo.Gold"/>
+<fullyQualifiedTypeName name="_0111.member.vo.Vip"/>
+<fullyQualifiedTypeName name="_0111.member.vo.Vvip"/>
+<fullyQualifiedTypeName name="_0111.member.controller.MemberManager"/>
+<fullyQualifiedTypeName name="_0111.member.vo.BonusPoint"/>
 </qualifiedTypeNameHistroy>

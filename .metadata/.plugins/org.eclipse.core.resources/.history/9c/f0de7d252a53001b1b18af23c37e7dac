@@ -1,0 +1,16 @@
+package _0110;
+
+import _0110.Member;
+
+public class RegularMember extends Member{
+
+	public RegularMember(int age) {
+		super(age);
+	}
+	
+	@Override
+	public int getPayment() {
+		// TODO Auto-generated method stub
+		return 1000;
+	}
+}

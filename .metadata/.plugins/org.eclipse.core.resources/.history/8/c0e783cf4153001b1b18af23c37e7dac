@@ -1,0 +1,15 @@
+package _0111.member.vo;
+
+//물어보기 : import가 필요한건지..
+import _0111.member.BonusPoint;
+
+public class Silver extends Member implements BonusPoint{
+
+	@Override
+	public double getBonus(int point) {
+		return point * 0.02;
+	}
+
+
+
+}
