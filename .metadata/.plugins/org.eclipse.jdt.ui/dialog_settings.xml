@@ -77,8 +77,8 @@
 		<item key="RemoveFinal" value="false"/>
 	</section>
 	<section name="DialogBounds_GetterSetterTreeSelectionDialog">
-		<item key="DIALOG_X_ORIGIN" value="503"/>
-		<item key="DIALOG_Y_ORIGIN" value="66"/>
+		<item key="DIALOG_X_ORIGIN" value="851"/>
+		<item key="DIALOG_Y_ORIGIN" value="130"/>
 		<item key="DIALOG_WIDTH" value="540"/>
 		<item key="DIALOG_HEIGHT" value="694"/>
 		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
@@ -117,5 +117,12 @@
 	<section name="RefactoringWizard.preview">
 		<item key="width" value="600"/>
 		<item key="height" value="400"/>
+	</section>
+	<section name="DialogBounds_AddDelegateMethodsDialog">
+		<item key="DIALOG_X_ORIGIN" value="402"/>
+		<item key="DIALOG_Y_ORIGIN" value="155"/>
+		<item key="DIALOG_WIDTH" value="561"/>
+		<item key="DIALOG_HEIGHT" value="552"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-12|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
 	</section>
 </section>

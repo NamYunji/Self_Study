@@ -1,8 +1,0 @@
-package _2021_01_04.com.oop.book.run;
-
-public class TestBookArray {
-	public static void main(String[] args) {
-		
-	}
-
-}

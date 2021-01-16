@@ -67,3 +67,22 @@
 1610289289390	Rename package '_0111.member.controller'
 1610289300439	Rename package '_0111.member.controller_'
 1610289352931	Rename package '_0111.member'
+1610379233314	Rename package '_0112.Member'
+1610379828858	Rename local variable 'sum'
+1610390307783	Delete elements
+1610390355926	Delete element
+1610390436923	Rename package '_0112.pointManagement.member.mode.vo'
+1610390453207	Rename package '_0112.pointManagement.member.controller.MemberManager'
+1610724590889	Rename local variable 'i'
+1610725388482	Move compilation units
+1610732409236	Rename package '_0115.equals'
+1610732417860	Rename type 'Equals'
+1610732502746	Delete element
+1610733182180	Delete element
+1610733210453	Move compilation unit
+1610736470441	Rename type 'Calendar'
+1610800608395	Delete element
+1610800623882	Copy package
+1610800639737	Delete element
+1610800645108	Copy package
+1610800655253	Delete element
