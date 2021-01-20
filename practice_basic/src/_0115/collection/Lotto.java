@@ -5,12 +5,13 @@ import java.util.Set;
 
 public class Lotto {
 	public static void main(String[] args) {
-		
+		//list, set, map
+		//set : 
 		Set<Integer> set = new HashSet<Integer>();
 
-		int i = 0;
-		while(true) {
-			i = (int)(Math.random() * 45) + 1;						
+
+		while((true)) {
+			int i = (int)(Math.random() * 45) + 1;						
 			set.add(i);
 			if (set.size() == 6) {
 				break;
@@ -18,9 +19,5 @@ public class Lotto {
 		}
 		
 		System.out.println(set);
-
 	}
-
-
-
 }

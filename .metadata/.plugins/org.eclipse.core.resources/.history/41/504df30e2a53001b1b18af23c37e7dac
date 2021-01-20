@@ -1,6 +1,0 @@
-package _0110;
-
-public interface Mic {
-	void say();
-
-}
