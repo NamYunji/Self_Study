@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="_0112.bankAccount.MinusAccount"/>
-<fullyQualifiedTypeName name="_0112.member.Member"/>
 <fullyQualifiedTypeName name="_0112.pointManagement.member.controller.Member"/>
 <fullyQualifiedTypeName name="_0112.pointManagement.member.controller.MemberManager"/>
 <fullyQualifiedTypeName name="_0112.pointManagement.member.model.vo.Silver"/>
@@ -60,4 +58,6 @@
 <fullyQualifiedTypeName name="java.util.HashSet"/>
 <fullyQualifiedTypeName name="_0121.collectionTest.Student"/>
 <fullyQualifiedTypeName name="_0121.collectionTest.Collection_"/>
+<fullyQualifiedTypeName name="_0124.abstract_.UndergraduateStudent"/>
+<fullyQualifiedTypeName name="_0124.abstract_.GraduateStudent"/>
 </qualifiedTypeNameHistroy>
